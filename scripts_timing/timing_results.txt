@@ -1,0 +1,210 @@
+ALG=R5ND_1CCA_0d None=1 None=1 TAU=0 None=1 None=1 TIMING=1 
+KeyGen(mean): 69108 CPU cycles 
+KeyGen(mean): 0.016538 ms 
+KeyGen(sd)  : 0.006229 ms 
+Enc   (mean): 220284 CPU cycles 
+Enc   (mean): 0.051784 ms 
+Enc   (sd)  : 0.012085 ms 
+Dec   (mean): 358227 CPU cycles 
+Dec   (mean): 0.088357 ms 
+Dec   (sd)  : 0.017307 ms 
+ =================================== 
+Total (mean): 0.156678 ms 
+Total (mean): 647621 CPU cycles 
+  
+ALG=R5ND_1CCA_0d None=1 None=1 TAU=1 None=1 None=1 TIMING=1 
+KeyGen(mean): 66499 CPU cycles 
+KeyGen(mean): 0.016456 ms 
+KeyGen(sd)  : 0.006184 ms 
+Enc   (mean): 205132 CPU cycles 
+Enc   (mean): 0.051818 ms 
+Enc   (sd)  : 0.013098 ms 
+Dec   (mean): 365028 CPU cycles 
+Dec   (mean): 0.088357 ms 
+Dec   (sd)  : 0.019299 ms 
+ =================================== 
+Total (mean): 0.156631 ms 
+Total (mean): 636660 CPU cycles 
+  
+ALG=R5ND_1CCA_0d None=1 None=1 TAU=2 None=1 None=1 TIMING=1 
+KeyGen(mean): 60556 CPU cycles 
+KeyGen(mean): 0.016167 ms 
+KeyGen(sd)  : 0.005548 ms 
+Enc   (mean): 193564 CPU cycles 
+Enc   (mean): 0.051088 ms 
+Enc   (sd)  : 0.012079 ms 
+Dec   (mean): 328047 CPU cycles 
+Dec   (mean): 0.086990 ms 
+Dec   (sd)  : 0.017806 ms 
+ =================================== 
+Total (mean): 0.154245 ms 
+Total (mean): 582168 CPU cycles 
+  
+ALG=R5ND_1CCA_0d None=1 None=1 TAU=0 None=1 STANDALONE=1 TIMING=1 
+KeyGen(mean): 68854 CPU cycles 
+KeyGen(mean): 0.016506 ms 
+KeyGen(sd)  : 0.005692 ms 
+Enc   (mean): 203396 CPU cycles 
+Enc   (mean): 0.051909 ms 
+Enc   (sd)  : 0.011275 ms 
+Dec   (mean): 353106 CPU cycles 
+Dec   (mean): 0.088373 ms 
+Dec   (sd)  : 0.015829 ms 
+ =================================== 
+Total (mean): 0.156788 ms 
+Total (mean): 625358 CPU cycles 
+  
+ALG=R5ND_1CCA_0d None=1 None=1 TAU=1 None=1 STANDALONE=1 TIMING=1 
+KeyGen(mean): 74767 CPU cycles 
+KeyGen(mean): 0.016395 ms 
+KeyGen(sd)  : 0.005466 ms 
+Enc   (mean): 231173 CPU cycles 
+Enc   (mean): 0.051470 ms 
+Enc   (sd)  : 0.010433 ms 
+Dec   (mean): 400862 CPU cycles 
+Dec   (mean): 0.088196 ms 
+Dec   (sd)  : 0.015627 ms 
+ =================================== 
+Total (mean): 0.156061 ms 
+Total (mean): 706803 CPU cycles 
+  
+ALG=R5ND_1CCA_0d None=1 None=1 TAU=2 None=1 STANDALONE=1 TIMING=1 
+KeyGen(mean): 59586 CPU cycles 
+KeyGen(mean): 0.015944 ms 
+KeyGen(sd)  : 0.003875 ms 
+Enc   (mean): 195913 CPU cycles 
+Enc   (mean): 0.050802 ms 
+Enc   (sd)  : 0.008690 ms 
+Dec   (mean): 329391 CPU cycles 
+Dec   (mean): 0.086429 ms 
+Dec   (sd)  : 0.011495 ms 
+ =================================== 
+Total (mean): 0.153174 ms 
+Total (mean): 584891 CPU cycles 
+  
+ALG=R5ND_1CCA_0d None=1 AES=1 TAU=0 None=1 None=1 TIMING=1 
+KeyGen(mean): 67370 CPU cycles 
+KeyGen(mean): 0.016230 ms 
+KeyGen(sd)  : 0.005088 ms 
+Enc   (mean): 217336 CPU cycles 
+Enc   (mean): 0.051327 ms 
+Enc   (sd)  : 0.010611 ms 
+Dec   (mean): 374381 CPU cycles 
+Dec   (mean): 0.087676 ms 
+Dec   (sd)  : 0.015485 ms 
+ =================================== 
+Total (mean): 0.155234 ms 
+Total (mean): 659087 CPU cycles 
+  
+ALG=R5ND_1CCA_0d None=1 AES=1 TAU=1 None=1 None=1 TIMING=1 
+KeyGen(mean): 74201 CPU cycles 
+KeyGen(mean): 0.016549 ms 
+KeyGen(sd)  : 0.006978 ms 
+Enc   (mean): 206821 CPU cycles 
+Enc   (mean): 0.051885 ms 
+Enc   (sd)  : 0.013071 ms 
+Dec   (mean): 367973 CPU cycles 
+Dec   (mean): 0.088343 ms 
+Dec   (sd)  : 0.019298 ms 
+ =================================== 
+Total (mean): 0.156777 ms 
+Total (mean): 648997 CPU cycles 
+  
+ALG=R5ND_1CCA_0d None=1 AES=1 TAU=2 None=1 None=1 TIMING=1 
+KeyGen(mean): 78711 CPU cycles 
+KeyGen(mean): 0.016632 ms 
+KeyGen(sd)  : 0.006477 ms 
+Enc   (mean): 227909 CPU cycles 
+Enc   (mean): 0.051899 ms 
+Enc   (sd)  : 0.012374 ms 
+Dec   (mean): 391091 CPU cycles 
+Dec   (mean): 0.089262 ms 
+Dec   (sd)  : 0.018681 ms 
+ =================================== 
+Total (mean): 0.157792 ms 
+Total (mean): 697713 CPU cycles 
+  
+ALG=R5ND_1CCA_0d None=1 AES=1 TAU=0 None=1 STANDALONE=1 TIMING=1 
+KeyGen(mean): 74896 CPU cycles 
+KeyGen(mean): 0.016634 ms 
+KeyGen(sd)  : 0.006711 ms 
+Enc   (mean): 236756 CPU cycles 
+Enc   (mean): 0.052086 ms 
+Enc   (sd)  : 0.013591 ms 
+Dec   (mean): 399677 CPU cycles 
+Dec   (mean): 0.088735 ms 
+Dec   (sd)  : 0.018228 ms 
+ =================================== 
+Total (mean): 0.157454 ms 
+Total (mean): 711330 CPU cycles 
+  
+ALG=R5ND_1CCA_0d None=1 AES=1 TAU=1 None=1 STANDALONE=1 TIMING=1 
+KeyGen(mean): 60257 CPU cycles 
+KeyGen(mean): 0.016166 ms 
+KeyGen(sd)  : 0.005119 ms 
+Enc   (mean): 191202 CPU cycles 
+Enc   (mean): 0.051155 ms 
+Enc   (sd)  : 0.012353 ms 
+Dec   (mean): 329407 CPU cycles 
+Dec   (mean): 0.087239 ms 
+Dec   (sd)  : 0.017581 ms 
+ =================================== 
+Total (mean): 0.154560 ms 
+Total (mean): 580868 CPU cycles 
+  
+ALG=R5ND_1CCA_0d None=1 AES=1 TAU=2 None=1 STANDALONE=1 TIMING=1 
+KeyGen(mean): 61062 CPU cycles 
+KeyGen(mean): 0.016020 ms 
+KeyGen(sd)  : 0.005188 ms 
+Enc   (mean): 191086 CPU cycles 
+Enc   (mean): 0.050916 ms 
+Enc   (sd)  : 0.012041 ms 
+Dec   (mean): 325263 CPU cycles 
+Dec   (mean): 0.086994 ms 
+Dec   (sd)  : 0.017284 ms 
+ =================================== 
+Total (mean): 0.153930 ms 
+Total (mean): 577412 CPU cycles 
+  
+ALG=R5ND_1CCA_0d None=1 None=1 TAU=0 AVX2=1 None=1 TIMING=1 
+KeyGen(mean): 63892 CPU cycles 
+KeyGen(mean): 0.016213 ms 
+KeyGen(sd)  : 0.004815 ms 
+Enc   (mean): 207821 CPU cycles 
+Enc   (mean): 0.051173 ms 
+Enc   (sd)  : 0.010638 ms 
+Dec   (mean): 351352 CPU cycles 
+Dec   (mean): 0.087536 ms 
+Dec   (sd)  : 0.015855 ms 
+ =================================== 
+Total (mean): 0.154923 ms 
+Total (mean): 623067 CPU cycles 
+  
+ALG=R5ND_1CCA_0d None=1 None=1 TAU=1 AVX2=1 None=1 TIMING=1 
+KeyGen(mean): 75629 CPU cycles 
+KeyGen(mean): 0.016289 ms 
+KeyGen(sd)  : 0.004734 ms 
+Enc   (mean): 229417 CPU cycles 
+Enc   (mean): 0.051284 ms 
+Enc   (sd)  : 0.009641 ms 
+Dec   (mean): 379857 CPU cycles 
+Dec   (mean): 0.087503 ms 
+Dec   (sd)  : 0.013982 ms 
+ =================================== 
+Total (mean): 0.155075 ms 
+Total (mean): 684904 CPU cycles 
+  
+ALG=R5ND_1CCA_0d None=1 None=1 TAU=2 AVX2=1 None=1 TIMING=1 
+KeyGen(mean): 63227 CPU cycles 
+KeyGen(mean): 0.016353 ms 
+KeyGen(sd)  : 0.005438 ms 
+Enc   (mean): 195008 CPU cycles 
+Enc   (mean): 0.051493 ms 
+Enc   (sd)  : 0.011070 ms 
+Dec   (mean): 338942 CPU cycles 
+Dec   (mean): 0.088115 ms 
+Dec   (sd)  : 0.016458 ms 
+ =================================== 
+Total (mean): 0.155961 ms 
+Total (mean): 597178 CPU cycles 
+  
