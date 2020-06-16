@@ -8,3 +8,6 @@ We implemented our KEM by slightly modifying the source code of Round5(https://r
 are modified to fit our KEM.
 
 To build and run the implementaion, follow the instructions in README of https://github.com/round5/code.
+
+
+You can also have another implementation code for our KEM in https://github.com/RLWR-KEM/RLWR1
